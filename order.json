@@ -1,0 +1,13 @@
+{
+  "orders": [
+    {
+      "id": "6dcb784e-93fb-4d25-8b5d-b1c077cc31e3",
+      "name": "Mohammed Mouhajir",
+      "phone": "+212625416478",
+      "address": "morroco",
+      "productId": "d37b52a3-cdfd-4c43-9ed0-c59aad645d43",
+      "quantity": 1,
+      "createdAt": "2026-02-04T22:32:53.723Z"
+    }
+  ]
+}
